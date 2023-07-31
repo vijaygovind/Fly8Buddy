@@ -18,7 +18,7 @@ The application would have the following functionalities.
   -  From and To dates
   -  Number of passengers ( adults and children )
 -  The application would display the results in a paginated manner ( of 10 records in each view )
--  The user can select one of the optons to confirm.
+-  The user can select one of the options to confirm.
 -  The user should be able to view the flight confirmation, with an option to download the confirmation as a PDF file. 
 -  The user can view the confirmed trips
   
